@@ -1,0 +1,7 @@
+{
+    "cridentials": [
+        {"site": "google.com", "login": "11125b28a003f367e7927bc1264db0e5", "password": "3c86a7f61c038cea12c974bce91fc24c"},
+        {"site": "yandex.ru", "login": "11125b28a003f367e7927bc1264db0e5", "password": "0af2542b82fd125d9ed892a068f69e9a"},
+        {"site": "op.gg", "login": "11125b28a003f367e7927bc1264db0e5", "password": "8e2f863fa630f4b05ccef2b38af3d14f"}
+    ]
+}

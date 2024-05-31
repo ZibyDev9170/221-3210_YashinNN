@@ -1,0 +1,7 @@
+{
+    "cridentials": [
+        {"site": "google.com", "login": "login1", "password": "password1"},
+        {"site": "yandex.ru", "login": "login2", "password": "password2"},
+        {"site": "op.gg", "login": "login3", "password": "password3"}
+    ]
+}
