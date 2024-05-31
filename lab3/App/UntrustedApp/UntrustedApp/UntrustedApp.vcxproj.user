@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Simulation|x64'">
+    <LocalDebuggerWorkingDirectory>C:\Users\nikya\Documents\Programming\Cryptograifia\lab3\App\UntrustedApp\x64\Simulation</LocalDebuggerWorkingDirectory>
+    <LocalDebuggerEnvironment>PATH=%PATH%;C:\Users\nikya\Documents\Programming\Cryptograifia\lab3\App\UntrustedApp\packages\Intel.SGX.SDK.2.24.100.3\build\native\bin\x64\Release
+$(LocalDebuggerEnvironment)</LocalDebuggerEnvironment>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+</Project>

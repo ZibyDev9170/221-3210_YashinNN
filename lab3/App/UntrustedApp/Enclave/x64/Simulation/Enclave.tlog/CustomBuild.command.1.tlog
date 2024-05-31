@@ -1,0 +1,2 @@
+^C:\USERS\NIKYA\DOCUMENTS\PROGRAMMING\CRYPTOGRAIFIA\LAB3\APP\UNTRUSTEDAPP\ENCLAVE\ENCLAVE.EDL
+"C:\Users\nikya\Documents\Programming\Cryptograifia\lab3\App\UntrustedApp\packages\Intel.SGX.SDK.2.24.100.3\build\native\bin\win32\release\sgx_edger8r.exe" --trusted "C:\Users\nikya\Documents\Programming\Cryptograifia\lab3\App\UntrustedApp\Enclave\Enclave.edl" --search-path "C:\Users\nikya\Documents\Programming\Cryptograifia\lab3\App\UntrustedApp\packages\Intel.SGX.SDK.2.24.100.3\build\native\include"

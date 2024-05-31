@@ -1,0 +1,2 @@
+﻿  Untrusted.cpp
+C:\Users\nikya\Documents\Programming\Cryptograifia\lab3\App\UntrustedApp\UntrustedApp\Untrusted.cpp(35,10): fatal error C1083: Не удается открыть файл включение: sgx_urts.h: No such file or directory,
